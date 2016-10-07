@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marksheet>
+	
+	<course>
+		<courseid>CSC402</courseid>
+		<title>DBMS</title>
+		<th>32</th>
+		<ia>15</ia>
+		<tw>21</tw>
+		<total>123</total>
+	</course>
+	
+	<course>
+		<courseid>CSC401</courseid>
+		<title>TCS</title>
+		<th>44</th>
+		<ia>15</ia>
+		<tw>23</tw>
+		<total>121</total>
+	</course>	
+
+	<course>
+		<courseid>CSC412</courseid>
+		<title>CG</title>
+		<th>32</th>
+		<ia>12</ia>
+		<tw>20</tw>
+		<total>132</total>
+	</course>
+	
+	<course>
+		<courseid>CSC412</courseid>
+		<title>M4</title>
+		<th>48</th>
+		<ia>12</ia>
+		<tw>22</tw>
+		<total>233</total>
+	</course>
+
+</marksheet>
